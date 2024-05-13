@@ -1,0 +1,8 @@
+0 : 'Early_blight'
+1 : 'Healthy'
+2 : 'Late_blight'
+3 : 'Leaf Miner'
+4 : 'Magnesium Deficiency'
+5 : 'Nitrogen Deficiency'
+6 : 'Pottassium Deficiency'
+7 : 'Spotted Wilt Virus'
